@@ -16,4 +16,4 @@ Bot uses for entry point prediction such metrics as:
 + MACD
 
 
-**To use the bot yourself create a config.py file and paste:** `token = '<Your tinkoff invest token>'`
+**To use the bot yourself create a** `config.py` **file and paste:** `token = '<Your tinkoff invest token>'` **into it**
